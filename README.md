@@ -39,5 +39,5 @@ Este projeto foi construído com foco em **arquitetura limpa, segurança da info
 
 ### 1. Clonar o Repositório
 ```bash
-git clone [https://github.com/SEU_USUARIO_AQUI/CosmoWallpaperEngine.git](https://github.com/SEU_USUARIO_AQUI/CosmoWallpaperEngine.git)
-cd CosmoWallpaperEngine
+git clone [https://github.com/MurilloAmorim/Cosmo-Wallpaper-Engine.git](https://github.com/MurilloAmorim/Cosmo-Wallpaper-Engine.git)
+cd Cosmo-Wallpaper-Engine
